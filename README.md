@@ -1,6 +1,8 @@
 # react-nanodegree-life-cycle-events-summary-exercise
 
 #Lesson Challenge
+
+
 Read these 4 articles: Understanding the React Component Lifecycle, React component’s lifecycle, Understanding React — Component life-cycle, and React JS: what is a PureComponent? and answer the following questions in the #explain-it channel:
 
 Describe what the in the workspace below will render on the screen and explain why.
